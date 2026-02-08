@@ -1,0 +1,30 @@
+body{
+  background: purple;
+}
+nav ul li{
+  background: white;
+  display: inline-block;
+  padding: 5px;
+}
+a{
+  text-decoration: none;
+  color:pink;
+}
+a:hover{
+  color:yellow;
+}
+footer{
+  color:grey;
+}
+img{
+  height: 250px;
+  width:160px;
+}
+.container{
+  display: flex;
+  gap:15px;
+}
+.footer{
+  background: grey;
+  align-self: center;
+}
